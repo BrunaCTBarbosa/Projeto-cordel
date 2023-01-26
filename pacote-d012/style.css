@@ -90,11 +90,11 @@ background-position: right center;
 section#img02{
     background-image: url(imagens/background002.jpg);
     
-    }
+}
 
-    footer{
+footer{
         background-color: black;
         color: beige;
         text-align: center;
         padding: 7px;
-    }
+}
